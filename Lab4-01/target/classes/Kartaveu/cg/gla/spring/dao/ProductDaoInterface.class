@@ -1,0 +1,3 @@
+Êþº¾   4   ,kartaveu/cg/gla/spring/dao/ProductDaoInterface  java/lang/Object create ((Lkartaveu/cg/gla/spring/entity/Product;)Z product MethodParameters reterive ()Ljava/util/List; 	Signature 9()Ljava/util/List<Lkartaveu/cg/gla/spring/entity/Product;>; 
+SourceFile ProductDaoInterface.java                  	 
+            

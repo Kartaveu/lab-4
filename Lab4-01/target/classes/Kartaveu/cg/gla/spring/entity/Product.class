@@ -1,0 +1,15 @@
+Êþº¾   4 C  #kartaveu/cg/gla/spring/entity/Product  java/lang/Object prodId I RuntimeVisibleAnnotations Ljavax/persistence/Id; prodName Ljava/lang/String; 	prodPrice 	getProdId ()I Code	     LineNumberTable LocalVariableTable this %Lkartaveu/cg/gla/spring/entity/Product; 	setProdId (I)V MethodParameters getProdName ()Ljava/lang/String;	   	 
+ setProdName (Ljava/lang/String;)V getProdPrice	      setProdPrice <init> (ILjava/lang/String;I)V
+  % " & ()V toString ) java/lang/StringBuilder + Product [prodId=
+ ( - " 
+ ( / 0 1 append (I)Ljava/lang/StringBuilder; 3 , prodName=
+ ( 5 0 6 -(Ljava/lang/String;)Ljava/lang/StringBuilder; 8 , prodPrice= : ]
+ ( < '  
+SourceFile Product.java Ljavax/persistence/Entity; Ljavax/persistence/Table; name producttable !                   	 
+        	        /     *´ ¬                               >     *µ ±       
+                                       /     *´ °                               >     *+µ ±       
+                      	 
+      	          /     *´ ¬                          !      >     *µ ±       
+    $  %                           " #     l     *· $*µ *,µ *µ ±           (  ) 	 *  +  ,    *                  	 
+               	       " &     3     *· $±       
+    /  1              '      [     1» (Y*· ,*´ ¶ .2¶ 4*´ ¶ 47¶ 4*´ ¶ .9¶ 4¶ ;°           5        1      =    >      ?   @  As B

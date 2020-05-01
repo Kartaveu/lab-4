@@ -1,0 +1,8 @@
+Êþº¾   4   %kartaveu/cg/gla/spring/Lab4aApplication  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this 'Lkartaveu/cg/gla/spring/Lab4aApplication; main ([Ljava/lang/String;)V
+    *org/springframework/boot/SpringApplication   run b(Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext; args [Ljava/lang/String; MethodParameters 
+SourceFile Lab4aApplication.java RuntimeVisibleAnnotations >Lorg/springframework/boot/autoconfigure/SpringBootApplication; !               /     *· ±    
+                    	       6     *¸ W±    
+   
+    
+                                   
